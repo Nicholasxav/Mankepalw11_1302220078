@@ -16,6 +16,15 @@ public class Counter {
 		count++;
 	}
 	
+	public void increment() {
+		count++;
+	}
+
+	
+	public void decrement() {
+		count--;
+	}
+	
 	public void decrement() {
 		count--;
 	}
